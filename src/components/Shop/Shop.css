@@ -1,0 +1,9 @@
+
+.container-shop{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    margin-top: 50px;
+    gap: 70px;
+    padding: 50px;
+  
+}

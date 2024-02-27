@@ -1,0 +1,32 @@
+
+.header{
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(9, 158, 66);
+    border-radius: 8px;
+    color: aliceblue;
+  
+}
+
+.head{
+    padding-left: 20px;
+}
+
+.header-info{
+    padding-right: 25px;
+}
+
+nav{
+    min-width: 100%;
+}
+nav a{
+    text-decoration: none;
+    padding-left: 20px;
+    color:#ffffffff;
+   
+}
+nav a:hover{
+    color: rgb(112, 12, 170);
+}
